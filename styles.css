@@ -3,9 +3,11 @@
 }
 h1 {
     font-size: 80px;
+    background: blue;
 }
 * {
     background-color: forestgreen;
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
+    color: orange;
 }
